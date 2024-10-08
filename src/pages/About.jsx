@@ -18,7 +18,7 @@ const About = () => {
               skills in both front-end and back-end development. When I’m not coding, you’ll often find 
               me immersed in music, reading, or browsing the web.
             </p>
-            <a href="./Portfolio/cv.pdf" target="_blank" rel="noreferrer" className="cv">
+            <a href="/Portfolio/cv.pdf" target="_blank" rel="noreferrer" className="cv">
               <span>
                 <i className='bx bx-down-arrow-alt'></i>Resume
               </span>
