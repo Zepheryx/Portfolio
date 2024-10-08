@@ -56,11 +56,11 @@ const Header = () => {
           <li><span>04.</span><Link className='link' to="/contact" onClick={toggleMenu}>Contact</Link></li>
 
           <div className="menu-media">
-            <a href='gg' target="_blank" rel="noreferrer">
+            <a href='https://www.instagram.com/zepher_yx/' target="_blank" rel="noreferrer">
               <i className="bi bi-arrow-up-right"></i>instagram
               <div className="link-underline"></div>
             </a>
-            <a href='gg' target="_blank" rel="noreferrer">
+            <a href='https://www.linkedin.com/in/mohamed-ghiouan/' target="_blank" rel="noreferrer">
               <i className="bi bi-arrow-up-right"></i>linkedIn
               <div className="link-underline"></div>
             </a>
