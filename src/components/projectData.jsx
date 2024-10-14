@@ -86,7 +86,7 @@ const projectData = [
     client: "Black Concept",
     year: "2023",
     team: "Developed Single-handedly",
-    description: "HB Digital is a creative advertising and marketing agency specializing in graphic design, digital printing, and industrial manufacturing. With extensive experience, it provides tailored solutions to meet clients' needs.\nNote: I developed the official website, but the server is currently down.",
+    description: "HB Digital is a creative advertising and marketing agency specializing in digital printing, and industrial manufacturing. With extensive experience, it provides tailored solutions to meet clients' needs.\nNote: I developed the official website, but the server is currently down.",
     website: "https://hb-digital.ma/",
     multiImgs: ["hbdigital_1.png",],
 }
