@@ -10,13 +10,16 @@ const About = () => {
           <div className="big-text">
             <h2>About Me</h2>
             <p>
-              Hello! I’m Mr.G, a dedicated fullstack developer with a strong focus on building 
-              seamless and efficient web applications. My journey in technology has fueled my passion 
-              for creating intuitive user experiences and delivering high-quality code.
+              Hello! I’m Mohamed Ghiouan, but you can call me Mr.G for simplicity. 
+              I’m a passionate fullstack developer from Morocco, focused on crafting 
+              seamless and efficient web applications. My journey in technology has 
+              fueled my passion for building intuitive user experiences 
+              and writing clean, high-quality code.
               <br /><br />
-              I enjoy exploring modern technologies and continuously seek opportunities to enhance my 
-              skills in both front-end and back-end development. When I’m not coding, you’ll often find 
-              me immersed in music, reading, or browsing the web.
+              I’m constantly exploring modern technologies and seeking opportunities 
+              to refine my skills in both front-end and back-end development. 
+              When I’m not coding, I enjoy immersing myself in music, reading, 
+              or exploring the web for new ideas and inspiration.
             </p>
             <a href="/Portfolio/cv.pdf" target="_blank" rel="noreferrer" className="cv">
               <span>
