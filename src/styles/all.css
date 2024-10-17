@@ -553,7 +553,7 @@ body{
 .info-media .big{
   padding: 0;
   font-weight: 500;
-  margin-right: 40px;
+  margin-right: 45px;
   text-transform: capitalize;
   font-size: var(--fs-more-mid);
 }
@@ -570,6 +570,10 @@ body{
 .info-media .small i{
   margin-right: 10px;
   font-size: var(--fs-bit-mid);
+}
+.small a{
+  text-decoration: none;
+  color: var(--bs-light-grey);
 }
 @media ( width < 1200px){
   .header{
