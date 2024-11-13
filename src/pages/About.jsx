@@ -10,11 +10,10 @@ const About = () => {
           <div className="big-text">
             <h2>About Me</h2>
             <p>
-              Hello! I’m Mohamed Ghiouan, but you can call me Mr.G for simplicity. 
-              I’m a passionate fullstack developer from Morocco, focused on crafting 
-              seamless and efficient web applications. My journey in technology has 
-              fueled my passion for building intuitive user experiences 
-              and writing clean, high-quality code.
+              Hello! I’m Mohamed Ghiouan. I’m a passionate Fullstack Engineer from Morocco, 
+              focused on crafting seamless and efficient web applications. 
+              My journey in technology has fueled my passion for building
+              intuitive user experiences and writing clean, high-quality code.
               <br /><br />
               I’m constantly exploring modern technologies and seeking opportunities 
               to refine my skills in both front-end and back-end development. 

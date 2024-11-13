@@ -10,12 +10,14 @@ function Home() {
         </div>
         <div className='bg-intro'>
           <div className='intro-big'>
-            <h3>Hey, My name is <span className='name'>Mohamed Ghiouan</span>
-              <br />but you can call me <span className='name'>Mr.G</span>
-            </h3>
+            <h3>Turning Your <span className='name'>Visions</span></h3>
+            <h3>into Virtual <span className='name'>Reality</span> .</h3><br/>
           </div>
           <div className='intro-small'>
-            <p>I'm a Full-Stack Developer</p>
+            <p>My name is Mohamed Ghiouan, and I'm a Fullstack Engineer.
+               I invite you to explore my portfolio, a journey of learning 
+               from mistakes and growing with each project.</p>
+               <br />
           </div>
           <div className='link'>
             <div className='me-link'>
