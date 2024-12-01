@@ -20,7 +20,7 @@ const About = () => {
               When I’m not coding, I enjoy immersing myself in music, reading, 
               or exploring the web for new ideas and inspiration.
             </p>
-            <a href="/Portfolio/cv.pdf" target="_blank" rel="noreferrer" className="cv">
+            <a href="/Portfolio/cv_one_pg.pdf" target="_blank" rel="noreferrer" className="cv">
               <span>
                 <i className='bx bx-down-arrow-alt'></i>Resume
               </span>
